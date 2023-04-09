@@ -1,6 +1,3 @@
-# Videos-DataBase
-The program simulates a videos database application which allows the users to watch, review and search information about the shows and actors details, as well as find recommendation about what shows to watch next.
-
 Nume si grupa : Stan Andreea-Cristina 323CA
 
 Pentru a-mi crea propria baza de date, am ales sa pastrez aceeasi structura ca si cea din schelet si sa copiez, rand pe rand, fiecare informatie din Inputul format in scheletul de cod.
